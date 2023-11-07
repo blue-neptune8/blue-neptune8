@@ -19,7 +19,7 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 * 🛠️ Technologies & Tools
 
 #+BEGIN_CENTER
-| Emacs | Git | JavaScript | React | Node.js | Python | Docker | Kubernetes |
+| Emacs | Git | Python | Julia | MoCap | Python | PyTorch | Singularity |
 #+END_CENTER
 
 * 📊 GitHub Stats
@@ -44,10 +44,9 @@ I'm a passionate developer who loves to explore new technologies and build cool 
 
 Feel free to connect with me on:
 
-- :email: Email: [[mailto:your-email@example.com][your-email@example.com]]
-- :octocat: GitHub: [[https://github.com/yourgithubhandle][@yourgithubhandle]]
+- :email: Email: [[mailto:contact@blackvelvet.maskmy.id][contact@blackvelvet.maskmy.id]]
+- :octocat: GitHub: [[https://github.com/blue-neptune8][@blue-neptune8]]
 - :bird: Twitter: [[https://twitter.com/yourtwitterhandle][@yourtwitterhandle]]
-- :linkedin: LinkedIn: [[https://www.linkedin.com/in/yourlinkedinhandle][Your LinkedIn Profile]]
 
 * 💬 Ask me about ...
 
