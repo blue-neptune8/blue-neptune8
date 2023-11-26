@@ -2,13 +2,18 @@
 #+AUTHOR: Neptune8
 #+OPTIONS: toc:nil num:nil ^:nil -:nil f:t *:t <:t
 
+#+BEGIN_CENTER
+[[file:profile.png]]
+#+END_CENTER
+
 * 👋 Hi there! I'm @blue-neptune8
 
 Welcome to my GitHub profile!
 
 * 🚀 About Me
+I'm a beginner in the world of machine learning, strong believer in the future of mixed reality, personal compute access and /e/acc/. Big supporter of the Julia programming language, and other unique approaches to programming that try to move the world of computing forward. Very curious about the rapid developments of AI and how they shape the future world.
 
-I'm a  enjoyer who loves to explore new technologies and read about and work on cool projects. Here's a bit about what I do:
+Here's a bit about what I do:
 
 - 🤖 Machine Learning
 - 🎥 Motion Capture
@@ -24,13 +29,13 @@ I'm a  enjoyer who loves to explore new technologies and read about and work on 
 * 📊 GitHub Stats
 
 #+BEGIN_CENTER
-[blue-neptune8's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-neptune8&show_icons=true&theme=radical)
+![blue-neptune8's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-neptune8&show_icons=true&theme=radical)
 #+END_CENTER
 
 * ⭐ Featured Projects
 
 - [[https://github.com/blue-neptune8/ClojureLabs][Clojure Labs]] - A Journey into Functional Programming with Clojure
-
+- Reservoir Computing
 
 * 📝 Latest Blog Posts
 
@@ -44,21 +49,19 @@ Feel free to connect with me on:
 
 - :email: Email: [[mailto:contact@blackvelvet.maskmy.id][contact@blackvelvet.maskmy.id]]
 - :octocat: GitHub: [[https://github.com/blue-neptune8][@blue-neptune8]]
-- :bird: 𝕏: [[https://twitter.com/neptune8_sky][@neptune8_sky]]
+- 𝕏: [[https://twitter.com/neptune8_sky][@neptune8_sky]]
 
 * 💬 Ask me about ...
 
-Feel free to reach out if you have any questions or if you want to chat about technology, coding, and innovation!
+Feel free to reach out if you want to chat about technology or propose some cool coding projects in machine learning!
 
 * 📅 What I'm Up To
 
-- 🔭 I’m currently working on [[https://github.com/yourgithubhandle/my-awesome-project][My Awesome Project]].
-- 🌱 I’m currently learning Advanced React Techniques.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Deep Learning.
-- 💬 Ask me about anything tech-related, I'm happy to help!
+- 🔭 I’m currently making my way through the Advent Of Code 🎄 in Clojure with no previous experience.
+- 🌱 I’m currently learning about ML for Self Driving cars.
+- 👯 I’m looking to collaborate on Open-source Projects like Julia Machine Learning libraries or any project related to Mixed Reality.
+- 🤔 Looking for help with hosting open-source LLM w/ image input locally.
+- 💬 Please reach out if you found any of the stuff above interesting, and want to work together!
 
 * :star2: Fun Fact
-
-/e/acc/
-
+- I find visual and audio content orders of magnitude superior to plain text for learning.
