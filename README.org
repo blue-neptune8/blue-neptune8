@@ -26,12 +26,6 @@ Here's a bit about what I do:
 | Julia | PyTorch | MATLAB | Clojure 👶🏻 | Vicon Shogun 👺 |
 #+END_CENTER
 
-* 📊 GitHub Stats
-
-#+BEGIN_CENTER
-![blue-neptune8's GitHub stats](https://github-readme-stats.vercel.app/api?username=blue-neptune8&show_icons=true&theme=radical)
-#+END_CENTER
-
 * ⭐ Featured Projects
 
 - [[https://github.com/blue-neptune8/ClojureLabs][Clojure Labs]] - A Journey into Functional Programming with Clojure
