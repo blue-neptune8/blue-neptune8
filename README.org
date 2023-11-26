@@ -1,4 +1,4 @@
-#+TITLE: Your Name / @blue-neptune8
+#+TITLE: @blue-neptune8
 #+AUTHOR: Neptune8
 #+OPTIONS: toc:nil num:nil ^:nil -:nil f:t *:t <:t
 
