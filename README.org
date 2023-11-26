@@ -1,25 +1,24 @@
-#+TITLE: Your Name / @yourgithubhandle
-#+AUTHOR: Your Name
+#+TITLE: Your Name / @blue-neptune8
+#+AUTHOR: Neptune8
 #+OPTIONS: toc:nil num:nil ^:nil -:nil f:t *:t <:t
 
-* 👋 Hi there! I'm @yourgithubhandle
+* 👋 Hi there! I'm @blue-neptune8
 
 Welcome to my GitHub profile!
 
 * 🚀 About Me
 
-I'm a passionate developer who loves to explore new technologies and build cool projects. Here's a bit about what I do:
+I'm a  enjoyer who loves to explore new technologies and read about and work on cool projects. Here's a bit about what I do:
 
-- 💻 Full Stack Development
-- 🌐 Web Design
-- 📱 Mobile App Development
-- 🖥️ UI/UX Design
 - 🤖 Machine Learning
+- 🎥 Motion Capture
+- 🖥️ Data Processing
+- ⚛️ Physics
 
 * 🛠️ Technologies & Tools
 
 #+BEGIN_CENTER
-| Emacs | Git | Python | Julia | MoCap | Python | PyTorch | Singularity |
+| Julia | PyTorch | MATLAB | Clojure 👶🏻 | Vicon Shogun 👺 |
 #+END_CENTER
 
 * 📊 GitHub Stats
@@ -46,7 +45,7 @@ Feel free to connect with me on:
 
 - :email: Email: [[mailto:contact@blackvelvet.maskmy.id][contact@blackvelvet.maskmy.id]]
 - :octocat: GitHub: [[https://github.com/blue-neptune8][@blue-neptune8]]
-- :bird: Twitter: [[https://twitter.com/yourtwitterhandle][@yourtwitterhandle]]
+- :bird: 𝕏: [[https://twitter.com/neptune8_sky][@neptune8_sky]]
 
 * 💬 Ask me about ...
 
@@ -62,5 +61,5 @@ Feel free to reach out if you have any questions or if you want to chat about te
 
 * :star2: Fun Fact
 
-I once solved a Rubik's cube while skydiving!
+/e/acc/
 
